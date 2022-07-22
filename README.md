@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to work in a MAANG company as a DevOps Engineer 
 
+- 👯 I’m AWS Certified Solutions Architect Associate  and  Google Certified Professional Cloud Architect  
+
 - 📫 How to reach me: walaaelgenidy@gmail.com
 -->
 
@@ -24,7 +26,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ## **Libraries and Frameworks**
 
 <p align="center">
-<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"><img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">
+<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png">
 <p/>
 
 ## **Cloud**
