@@ -9,23 +9,6 @@
 
 - 📫 How to reach me: walaaelgenidy@gmail.com
 -->
-<p align ="center"><img src="./assets/title.svg" />
-</p>
-
-<img src="./assets/marquee.svg" />
-<!-- 
-<img src="./assets/ezgif-3-1d32d155182e.gif" /> -->
-
-<!-- <p align ="center"> -->
-<img src="./assets/lap.gif" align="right"/>
-<!-- </p> -->
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning K8S cka
-- 📫 How to reach me: walaaelgenidy@gmail.com
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedanwer006&theme=dark)
-
 
 # **Skill Set**
 
@@ -75,7 +58,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{mohamedanwer006}/count.svg"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{walaaelgenidy}/count.svg"/></p>
 
 <img src="./assets/grid.png" align="center" />
 
