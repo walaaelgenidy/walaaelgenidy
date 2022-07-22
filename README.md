@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walaaelgenidy&theme=dark&show_icons=true)
 
-<!--
+###
 - 🔭 I’m currently working on Python Automation Scrpting
 
 - 👯 I’m looking to work in a MAANG company as a DevOps Engineer 
@@ -10,7 +10,7 @@
 - 👯 I’m AWS Certified Solutions Architect Associate  and  Google Certified Professional Cloud Architect  
 
 - 📫 How to reach me: walaaelgenidy@gmail.com
--->
+###
 
 # **Skill Set**
 
