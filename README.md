@@ -12,6 +12,12 @@
 - 📫 How to reach me: walaaelgenidy@gmail.com
 ###
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+
+<a href="https://www.linkedin.com/in/walaa-elgenidy-37619b190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11959311/walaa-elgenidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+
 # **Skill Set**
 
 These are some of the major technologies that I use or have worked on in the past:
