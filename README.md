@@ -3,13 +3,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walaaelgenidy&theme=dark&show_icons=true)
 
 ###
-- 🔭 I’m currently working on Python Automation Scrpting also Bash 
+-  I am a passionate DevOps engineer with expertise in automating, optimizing, and streamlining deployment processes. With a strong background in infrastructure as code, CI/CD 
+     pipelines, and cloud technologies, I am dedicated to enhancing software delivery practices and ensuring scalability and reliability in production environments.
 
-- 👯 I’m looking to work in a MAANG company as a DevOps Engineer 
+-  I’m AWS Certified Solutions Architect Associate , Google Certified Professional Cloud Architect and CKA
 
-- 👯 I’m AWS Certified Solutions Architect Associate , Google Certified Professional Cloud Architect and CKA
-
-- 📫 How to reach me: walaaelgenidy@gmail.com
+-  How to reach me: walaaelgenidy@gmail.com
 ###
 
 🔗 &nbsp;**Connect with me**
@@ -18,7 +17,22 @@
 <a href="https://www.linkedin.com/in/walaa-elgenidy-37619b190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11959311/walaa-elgenidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
+
+## Experience
+ * With over 2 years of hands-on experience in the field of DevOps engineering, I have successfully implemented automated deployment pipelines, managed infrastructure at scale, and 
+  collaborated with cross-functional teams to improve software delivery practices. My experience includes:
+
+- Implemented automated deployment pipelines that reduced deployment time .
+- Led the migration of on-premises infrastructure to the cloud and from one cloud to another, resulting in cost savings and improved scalability.
+- Collaborated with development teams to improve code quality and deployment processes.
+  
 # **Skill Set**
+
+- Infrastructure as Code (IaC) with tools like Terraform and CloudFormation also Crossplane 
+- CI/CD pipeline setup and management with Jenkins  , github actions and ArgoCD
+- Containerization with Docker and container orchestration with Kubernetes
+- Monitoring and logging with tools like Prometheus, Grafana, and ELK stack
+- Cloud platforms such as AWS, Azure, and Google Cloud.
 
 These are some of the major technologies that I use or have worked on in the past:
 
